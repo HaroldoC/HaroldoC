@@ -4,7 +4,7 @@ Among my main professional characteristics stand out perfectionism, dedication, 
 
 I started to take a technical college in Digital Gaming, and also started to take courses in Front-End | HTML | CSS | JavaScript | React.js Developer | Python Developer. I love coding and what we can do to make something out of nothing by giving life either using Python for AI | Machine Learning and also work with API's | Web development. My final goal is to either work for Activision Gaming Company with Games or work with AI and Machine Learning. I also have a big interest in learning JAVA | SWIFT | REACT NATIVE | RUBY for APP Development. I LOVE CODING!!!!
 
-## 💫 Liitle Bit More About Me
+## 💫 Little Bit More About Me
 <p>🔭 I'm currently working on Robofriends</p>
 <p>🌱 I'm currently learning Full Web Dev | React | JS | CSS | SCSS</p>
 <p>💬 Ask me about Front-End Dev</p>
