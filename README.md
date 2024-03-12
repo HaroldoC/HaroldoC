@@ -6,9 +6,9 @@ I started to take a technical college in Digital Gaming, and also started to tak
 
 ## 💫 Little Bit More About Me
 <p>🔭 I'm currently working on Smart Face Recognition</p>
-<p>🌱 I'm currently learning Full Web Dev | React | JS | CSS | SCSS</p>
-<p>💬 Ask me about Front-End Dev</p>
-<p>📫 How to reach me? pydevhc@gmail.com</p>
+<p>🌱 I'm currently learning Complete A.I. & Machine Learning, Data Science</p>
+<p>💬 Ask me about Python/ ML/ AI</p>
+<p>📫 How to reach me? pydevhc@gmail.com/ carvalhoh@gmail.com</p>
 <p>I regularly write articles on <a href="https://hcsimplefolio.netlify.app/">HCSimplefolio</a></p>
 <p>Know about my experiences <a href="linkedin.com/in/haroldo-carvalho-47317475">here</a></p>
 <p>⚡ Fun Fact: I LOVE CODING</p>
