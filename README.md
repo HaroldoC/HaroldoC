@@ -1,8 +1,9 @@
 # Hi there 👋, My name is HAROLDO CARVALHO.
 
+I started to take a technical college in Digital Gaming, and also started to take courses in Front-End | HTML | CSS | JavaScript | React.js Developer | Python Developer - Complete A.I. | Machine Learning | Data Science. I love coding and I'm focusing my studies in Machine Learning | AI  and also work with API's | Web development. My final goal is to either work for Activision Gaming Company with Games or work with AI and Machine Learning. I also have a big interest in learning JAVA | SWIFT | REACT NATIVE | RUBY for APP Development. I'll finish my college degree in Digital Gaming this year of 2024 and already have plans to start a postgraduate degree in Data Science Engineering. I LOVE CODING!!!!
+
 Among my main professional characteristics stand out perfectionism, dedication, ease of interaction with the group and responsibility. Focused in the technical area and in the area of ​​technical security, property and VIP (bodyguard) since 1998 with a focus on alarm panels, security systems, access control, alarm monitoring and CCTV. I currently work for LinkedIn Global Security at Hagana company as SSO - Safety Security Officer. Safety Security Officer at LinkedIn - Global Security is a trusted advisor and leader in supporting an educated and engaged workforce who practice solid security principles keeping LinkedIn safe and secure. Responsible for supervising LinkedIn floors and all personnel located in the main office. Supervise the monitoring activities of alarms, applying the property security procedure to maintain the established safety and normality by meeting customer demands, IDF/MDF rooms, personnel, the whole facilities in conjunction with GSOC the main Security headquarters in California. Meetings with the upper chain of command and local Facilities manager and coordinator. Make sure Site is secure at all times.
 
-I started to take a technical college in Digital Gaming, and also started to take courses in Front-End | HTML | CSS | JavaScript | React.js Developer | Python Developer - Complete A.I. | Machine Learning | Data Science. I love coding and what we can do to make something out of nothing by giving life either using Python for AI | Machine Learning and also work with API's | Web development. My final goal is to either work for Activision Gaming Company with Games or work with AI and Machine Learning. I also have a big interest in learning JAVA | SWIFT | REACT NATIVE | RUBY for APP Development. I LOVE CODING!!!!
 
 ## 💫 Little Bit More About Me
 <p>🔭 I'm currently working on Smart Face Recognition</p>
@@ -11,7 +12,7 @@ I started to take a technical college in Digital Gaming, and also started to tak
 <p>📫 How to reach me? pydevhc@gmail.com/ carvalhoh@gmail.com</p>
 <p>I regularly write articles on <a href="https://hcsimplefolio.netlify.app/">HCSimplefolio</a></p>
 <p>Know about my experiences <a href="linkedin.com/in/haroldo-carvalho-47317475">here</a></p>
-<p>⚡ Fun Fact: I LOVE CODING</p>
+<p>⚡ Fun Fact: I'M STUDYING DIGITAL GAME AND FOCUSING IN ML | AI. </p>
 
 ## 💻 Skills
 <p>
