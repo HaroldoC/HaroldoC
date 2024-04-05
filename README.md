@@ -11,7 +11,6 @@ Among my main professional characteristics stand out perfectionism, dedication, 
 <p>💬 Ask me about Python/ ML/ AI</p>
 <p>📫 How to reach me? pydevhc@gmail.com/ carvalhoh@gmail.com</p>
 <p>Here is my Portfolio <a href="https://haroldo-carvalho.netlify.app/">https:haroldo-carvalho.netlify.app</a></p>
-<p>Know about my experiences <a href="https://linkedin.com/in/haroldo-carvalho-47317475">here</a></p>
 <p>⚡ Fun Fact: I'M STUDYING DIGITAL GAME AND FOCUSING IN ML | AI. </p>
 
 ## 💻 Skills
@@ -28,8 +27,8 @@ Among my main professional characteristics stand out perfectionism, dedication, 
 
 ## 👥 Connect With Me
 <p>
-<a href="https://linkedin.com/in/Haroldo%20Carvalho"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://twitter.com/HAROLDO%20CARVALHO"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://linkedin.com/in/haroldo-carvalho-47317475"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://twitter.com/HaroldoTico41st"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
 ## 🌟 Github Badges
