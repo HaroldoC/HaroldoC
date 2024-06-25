@@ -20,7 +20,6 @@ Among my main professional characteristics stand out perfectionism, dedication, 
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" style="margin-bottom: 5px;" height="50px" />  
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Illustrator.svg" style="margin-bottom: 5px;" height="50px" /> 
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" style="margin-bottom: 5px;" height="50px" /> 
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" style="margin-bottom: 5px;" height="50px" /> 
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" style="margin-bottom: 5px;" height="50px" /> 
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Npm-Dark.svg" style="margin-bottom: 5px;" height="50px" /> 
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" style="margin-bottom: 5px;" height="50px" /> 
@@ -38,9 +37,9 @@ Among my main professional characteristics stand out perfectionism, dedication, 
 
 ## 👥 Connect With Me
 <p>
-<a href="https://linkedin.com/in/haroldo-carvalho-47317475"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://twitter.com/HaroldoTico41st"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-</p>
+<a href="https://linkedin.com/in/haroldo-carvalho-47317475"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://twitter.com/HaroldoTico41st"><img src="https://simpleicons.org/icons/x.svg" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://github.com/HaroldoC"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" style="margin-bottom: 4px;" height="30px" target="_blank"></a>  
 
 ## 🌟 Github Badges
 <p>
