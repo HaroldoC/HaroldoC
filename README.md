@@ -39,7 +39,7 @@ Among my main professional characteristics stand out perfectionism, dedication, 
 ## 👥 Connect With Me
 <p>
 <a href="https://linkedin.com/in/haroldo-carvalho-47317475"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://twitter.com/HaroldoTico41st"><img src="C:/Users/hcarvalh/Downloads/x.svg" style="margin-bottom: 4px;" height="30px" target="_blank"></a> 
+<a href="https://twitter.com/HaroldoTico41st"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" style="margin-bottom: 4px;" height="30px" target="_blank"></a> 
 <a href="https://github.com/HaroldoC"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" style="margin-bottom: 4px;" height="30px" target="_blank"></a>  
 
 ## 🌟 Github Badges
