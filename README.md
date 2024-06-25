@@ -33,12 +33,13 @@ Among my main professional characteristics stand out perfectionism, dedication, 
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flask-Dark.svg" style="margin-bottom: 5px;" height="50px" /> 
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" style="margin-bottom: 5px;" height="50px" /> 
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Anaconda-Dark.svg" style="margin-bottom: 5px;" height="50px" /> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ScikitLearn-Dark.svg" style="margin-bottom: 5px;" height="50px" />
 </p>
 
 ## 👥 Connect With Me
 <p>
 <a href="https://linkedin.com/in/haroldo-carvalho-47317475"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://twitter.com/HaroldoTico41st"><img src="https://iconscout.com/free-icon/twitter-9420781" style="margin-bottom: 4px;" height="30px" target="_blank"></a> 
+<a href="https://twitter.com/HaroldoTico41st"><img src="https://icons8.com/icon/phOKFKYpe00C/twitterx" style="margin-bottom: 4px;" height="30px" target="_blank"></a> 
 <a href="https://github.com/HaroldoC"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" style="margin-bottom: 4px;" height="30px" target="_blank"></a>  
 
 ## 🌟 Github Badges
