@@ -24,7 +24,7 @@ Among my main professional characteristics stand out perfectionism, dedication, 
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://skillicons.dev/icons?i=git" />
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" style="margin-bottom: 4px;" height="30px" /> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" style="margin-bottom: 5px;" height="50px" /> 
 </p>
 
 ## 👥 Connect With Me
