@@ -15,16 +15,25 @@ Among my main professional characteristics stand out perfectionism, dedication, 
 
 ## 💻 Skills
 <p>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" style="margin-bottom: 5px;" height="50px" /> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" style="margin-bottom: 5px;" height="50px" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" style="margin-bottom: 5px;" height="50px" /> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" style="margin-bottom: 5px;" height="50px" />  
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Illustrator.svg" style="margin-bottom: 5px;" height="50px" /> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" style="margin-bottom: 5px;" height="50px" /> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" style="margin-bottom: 5px;" height="50px" /> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" style="margin-bottom: 5px;" height="50px" /> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Npm-Dark.svg" style="margin-bottom: 5px;" height="50px" /> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" style="margin-bottom: 5px;" height="50px" /> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" style="margin-bottom: 5px;" height="50px" /> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg" style="margin-bottom: 5px;" height="50px" /> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Unity-Dark.svg" style="margin-bottom: 5px;" height="50px" /> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/UnrealEngine.svg" style="margin-bottom: 5px;" height="50px" /> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" style="margin-bottom: 5px;" height="50px" /> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" style="margin-bottom: 5px;" height="50px" /> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flutter-Dark.svg" style="margin-bottom: 5px;" height="50px" /> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flask-Dark.svg" style="margin-bottom: 5px;" height="50px" /> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" style="margin-bottom: 5px;" height="50px" /> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Anaconda-Dark.svg" style="margin-bottom: 5px;" height="50px" /> 
 </p>
 
 ## 👥 Connect With Me
